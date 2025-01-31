@@ -1,0 +1,7 @@
+huggingface_hub
+langchain_community
+pandas
+chromadb
+sentence-transformers
+langchain-google-genai
+fastapi
